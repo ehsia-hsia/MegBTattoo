@@ -1,0 +1,14 @@
+#top{
+    background-color:black;
+    padding: 2rem;
+    display: grid;
+    align-items: center;
+    grid-template-columns: repeat(autofit, minmax(240px, 1fr));
+    grid-template-columns: repeat(2, 300px);
+    color: white;
+}
+
+.header{
+    display:grid;
+    
+}
